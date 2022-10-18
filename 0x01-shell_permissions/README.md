@@ -8,3 +8,4 @@ New owner
 Multiple permissions
 Multiple permissions
  James Bond
+John Doe
